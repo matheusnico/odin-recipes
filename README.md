@@ -1,0 +1,2 @@
+This project is a simple page with links to a variety of recipes.
+It will be based on simple HTML and CSS commands to train my skills as a beginner developer. So it is not supposed to have a lot of updates or stuff. it's just for the purpose of learning the foundations
